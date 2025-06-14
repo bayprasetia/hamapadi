@@ -17,6 +17,7 @@ $action = isset($_GET['action']) ? $_GET['action'] : "";
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sistem Pakar Hama dan Penyakit Padi</title>
   <link rel="stylesheet" href="Assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="Assets/css/datatables.min.css">
